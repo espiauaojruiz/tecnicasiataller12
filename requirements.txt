@@ -1,0 +1,9 @@
+PyPDF2
+chromadb
+pydantic
+streamlit
+langchain
+langgraph
+langchain_core
+langchain_openai
+langchain-text-splitters
